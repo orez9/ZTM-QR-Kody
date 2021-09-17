@@ -1,0 +1,1 @@
+# ZTM-QR-Kody
