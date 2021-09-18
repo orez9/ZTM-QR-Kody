@@ -63,7 +63,7 @@ namespace ZTMQRKODY
                     opcjeToolStripMenuItem.Text = "Opcje";
                     ustawieniaToolStripMenuItem.Text = "Ustawienia";
                     informacjeToolStripMenuItem.Text = "Informacje";
-                    autorToolStripMenuItem.Text = "Author";
+                    autorToolStripMenuItem.Text = "Autor";
                     groupBox1.Text = "Numer boczny autobusu";
                     this.Text = "ZTM QR Kody";
                     break;
