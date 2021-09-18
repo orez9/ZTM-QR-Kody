@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p93G4NYbxdyYGE45zLNbSEtiTX/ZteKQ1bjMOOx5HDre0V/4dohXtENX8lvf54qy+QXB70i6k+j82hnEpy6OgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\Documents\\Visual Studio 2022\\Projects\\ZTMQRKODY\\ZTMQRKODY.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\qrcoder\\1.4.1\\qrcoder.1.4.1.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

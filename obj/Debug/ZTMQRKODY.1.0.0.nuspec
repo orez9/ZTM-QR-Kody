@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ZTMQRKODY</id>
+    <version>1.0.0</version>
+    <authors>ZTMQRKODY</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="QRCoder" version="1.4.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/outline_qr_code_scanner_black_18dp.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Debug\net6.0-windows\ZTMQRKODY.runtimeconfig.json" target="lib\net6.0-windows7.0\ZTMQRKODY.runtimeconfig.json" />
+    <file src="C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Debug\net6.0-windows\ZTMQRKODY.dll" target="lib\net6.0-windows7.0\ZTMQRKODY.dll" />
+    <file src="C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\outline_qr_code_scanner_black_18dp.ico" target="content\outline_qr_code_scanner_black_18dp.ico" />
+    <file src="C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\outline_qr_code_scanner_black_18dp.ico" target="contentFiles\any\net6.0-windows7.0\outline_qr_code_scanner_black_18dp.ico" />
+  </files>
+</package>

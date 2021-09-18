@@ -1,0 +1,2 @@
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\win-x86\ZTMQRKODY.pdb
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\win-x86\ZTMQRKODY.exe

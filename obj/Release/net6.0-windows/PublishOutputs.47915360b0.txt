@@ -1,0 +1,6 @@
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\ZTMQRKODY.exe
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\ZTMQRKODY.dll
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\ZTMQRKODY.deps.json
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\ZTMQRKODY.runtimeconfig.json
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\ZTMQRKODY.pdb
+C:\Users\Kacper\Documents\Visual Studio 2022\Projects\ZTMQRKODY\bin\Release\net6.0-windows\publish\QRCoder.dll
